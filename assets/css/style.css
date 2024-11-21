@@ -568,6 +568,9 @@ a.nav-link:hover::after {
   #home-pickup .container .row > div {
     border-right: 1px solid #999 !important;
   }
+  #home-pickup .card.card-img-scale .card-img-scale-wrapper {
+    height: 180px;
+  }
 }
 
 /*----------------------------------------------*/
@@ -699,7 +702,7 @@ p.card-text {
   line-height: 1.4;
 }
 
-.card.card-img-scale .card-body:hover p {
+.card-img-scale .card-body:hover p {
 	color: var(--gray-color);
 	transition: all 0.3s;
 }
