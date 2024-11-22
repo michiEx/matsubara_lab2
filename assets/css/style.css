@@ -458,7 +458,7 @@ a.nav-link:hover::after {
   }
 }
 
-@media screen and (max-width: 456px) {
+@media screen and (max-width: 455.98px) {
   .logo {
     height: 40px;
   }
@@ -470,7 +470,7 @@ a.nav-link:hover::after {
   }
 }
 	
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 375.98px) {
   .lang-switcher > a {
     font-size: 11px;
   }
@@ -522,7 +522,7 @@ a.nav-link:hover::after {
   font-size: 40px;
   transition: all 0.3s;
 }
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 991.98px) {
   .main-header-image {
     min-height: 420px; 
   }
@@ -1169,7 +1169,7 @@ a.link-jstage {
 	margin-top: 0.5em;
 	border-bottom: none !important;
 }
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 991.98px) {
   .member-list > .row > .col > h4 small {
     display: block;
   }
