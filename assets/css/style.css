@@ -539,11 +539,11 @@ a.nav-link:hover::after {
   }
 }
 .main-header-image-left {
-  background-image: url("../images/research/research01.jpg");
+  background-image: url("../images/home-left.jpg");
   filter: brightness(50%);
 }
 .main-header-image-right {
-  background-image: url("../images/research/research02.jpg");
+  background-image: url("../images/home-right.jpg");
   filter: brightness(50%);
 }
 
