@@ -589,9 +589,6 @@ a.nav-link:hover::after {
   display: flex;
   align-items: center;
 }
-.page-header-image.research02 {
-  background-image: url("../images/research/research02.jpg");
-}
 
 @media screen and (max-width: 575.98px) {
   .page-header-image {
