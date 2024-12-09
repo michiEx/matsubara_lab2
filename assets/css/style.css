@@ -582,7 +582,7 @@ a.nav-link:hover::after {
 .page-header-image {
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
+  background-position: center 40%;
   background-image: url("../images/page-header.jpg");
   min-height: 180px;
   position: relative;
