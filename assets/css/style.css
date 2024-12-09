@@ -583,7 +583,7 @@ a.nav-link:hover::after {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  background-image: url("../images/home-left.jpg");
+  background-image: url("../images/page-header.jpg");
   min-height: 180px;
   position: relative;
   display: flex;
